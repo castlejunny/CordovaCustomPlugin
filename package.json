@@ -1,0 +1,17 @@
+{
+  "name": "kr.seongjun.plugins",
+  "version": "0.0.1",
+  "description": "please .. .",
+  "cordova": {
+    "id": "kr.seongjun.plugins",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "SeongJun Kim",
+  "license": "ISC"
+}
